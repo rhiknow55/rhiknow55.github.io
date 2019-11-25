@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+# Who am I?
 
-You can use the [editor on GitHub](https://github.com/rhiknow55/rhiknow55.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a 3rd year Bachelor of Computer Science Major at the University of British Columbia.
+I'm currently working in game development, but also branching out into other realms, such as UI/UX design, machine learning and all types of software development (I really want to do front-end, so hire me)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can check out my linkedin [here](https://www.linkedin.com/in/rhiknow/)
+And my github [here](https://github.com/rhiknow55/)
 
-### Markdown
+Now without further ado, let's check out the projects!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Industry Projects
+
+These are some of the projects I've worked on during Co-ops, UBC Worklearns, and at startups!
+
+
 
 ```markdown
 Syntax highlighted code block
