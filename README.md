@@ -3,8 +3,7 @@
 I'm currently a 3rd year Bachelor of Computer Science Major at the University of British Columbia.
 I'm currently working in game development, but also branching out into other realms, such as UI/UX design, machine learning and all types of software development (I really want to do front-end, so hire me)
 
-You can check out my linkedin [here](https://www.linkedin.com/in/rhiknow/)
-And my github [here](https://github.com/rhiknow55/)
+You can check out my linkedin [here](https://www.linkedin.com/in/rhiknow/) and my github [here](https://github.com/rhiknow55/)
 
 Now without further ado, let's check out the projects!
 
@@ -12,6 +11,18 @@ Now without further ado, let's check out the projects!
 ## Industry Projects
 
 These are some of the projects I've worked on during Co-ops, UBC Worklearns, and at startups!
+
+### It's Always Sunny: Gang Goes Mobile
+www.eastsidegames.com/game/always-sunny-gang-goes-mobile/
+
+![always sunny thumbnail](https://lh3.googleusercontent.com/VA0RnM1qRTeJD9UjgmvwZ3X7r2J40dUcLntrpsyPqlk4xnMAuB_BnAqJl6TKhb6kNxo=s180-rw)
+
+
+### UBC Geography VR
+http://eml.ubc.ca/projects/geography-vr/
+
+[![Geography VR Vimeo](https://eml.ubc.ca/files/2017/07/geog-e1507073736106-360x240.png)](https://vimeo.com/251849416 "Geography VR - Click to Watch!")
+
 
 
 
