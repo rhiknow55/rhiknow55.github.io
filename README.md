@@ -44,3 +44,19 @@ I was a software developer for this mobile rhythm game built with Raccoopack Stu
 I am the lead designer for this upcoming project being developed at Raccoopack Studios.
 
 
+## Personal Projects
+
+### Audio Shmuck
+
+An audio visualizer that procedurally creates a rhythm game by analyzing wavelengths.
+
+**Video coming soon**
+
+
+
+## Final Words (for now!)
+
+I will continue to add projects and neaten up this website for your viewing pleasure.
+Here's a [link to my resume](https://drive.google.com/file/d/12c4ZQ3s1XJxFE1RpAgGfzt5KNI2g2HsM/view?usp=sharing) if you wish to take a look - it contains some honorary projects not mentioned here!
+
+Adieu for now!
