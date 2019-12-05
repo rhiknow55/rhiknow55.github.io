@@ -57,6 +57,6 @@ An audio visualizer that procedurally creates a rhythm game by analyzing wavelen
 ## Final Words (for now!)
 
 I will continue to add projects and neaten up this website for your viewing pleasure.
-Here's a [link to my resume](https://drive.google.com/file/d/12c4ZQ3s1XJxFE1RpAgGfzt5KNI2g2HsM/view?usp=sharing) if you wish to take a look - it contains some honorary projects not mentioned here!
+Here's a [**link to my resume**](https://drive.google.com/file/d/12c4ZQ3s1XJxFE1RpAgGfzt5KNI2g2HsM/view?usp=sharing) if you wish to take a look - it contains some honorary projects not mentioned here!
 
 Adieu for now!
