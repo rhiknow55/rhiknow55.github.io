@@ -52,7 +52,9 @@ An audio visualizer that procedurally creates a rhythm game by analyzing wavelen
 
 **Video coming soon**
 
+### Zalgo text Reddit bot
 
+A reddit bot that will convert text into a zalgo version using Selenium WebDriver.
 
 ## Final Words (for now!)
 
