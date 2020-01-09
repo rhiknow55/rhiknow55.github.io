@@ -1,7 +1,7 @@
 # Who am I?
 
 My name is Ryan Oh, and I'm currently a 3rd year Bachelor of Computer Science student at the University of British Columbia.
-I'm currently working in game development, but also branching out into other realms, such as UI/UX design, machine learning and all types of software development.
+So far I've worked in VR and mobile game development in the industry. But I'm also branching out into other realms, such as UI/UX design, machine learning and all types of software development via curriculum in school and personal projects.
 
 You can check out my linkedin [here](https://www.linkedin.com/in/rhiknow/) and my github [here](https://github.com/rhiknow55/)
 
@@ -56,6 +56,7 @@ An infant audio visualizer that generates visuals based on wavelengths.
 ### Zalgo text Reddit bot
 
 A reddit bot that will convert text into a zalgo version using Selenium WebDriver.
+https://github.com/rhiknow55/zalgo-text-bot
 
 
 ## Final Words (for now!)
