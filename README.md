@@ -56,7 +56,7 @@ An infant audio visualizer that generates visuals based on wavelengths.
 ### Zalgo text Reddit bot
 
 A reddit bot that will convert text into a zalgo version using Selenium WebDriver.
-https://github.com/rhiknow55/zalgo-text-bot
+[https://github.com/rhiknow55/zalgo-text-bot](https://github.com/rhiknow55/zalgo-text-bot)
 
 
 ## Final Words (for now!)
