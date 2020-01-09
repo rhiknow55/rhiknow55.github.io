@@ -48,13 +48,15 @@ I am the lead designer for this upcoming project being developed at Raccoopack S
 
 ### Audio Shmuck
 
-An audio visualizer that procedurally creates a rhythm game by analyzing wavelengths.
+An infant audio visualizer that generates visuals based on wavelengths.
 
-**Video coming soon**
+[https://youtu.be/At6vOKVsiZk](Link to a video showing off the current state of the audio visualizer)
+
 
 ### Zalgo text Reddit bot
 
 A reddit bot that will convert text into a zalgo version using Selenium WebDriver.
+
 
 ## Final Words (for now!)
 
