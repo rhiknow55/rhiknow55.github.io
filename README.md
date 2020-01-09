@@ -1,6 +1,6 @@
 # Who am I?
 
-My name is Ryan Oh, and I'm currently a 3rd year Bachelor of Computer Science Major at the University of British Columbia.
+My name is Ryan Oh, and I'm currently a 3rd year Bachelor of Computer Science student at the University of British Columbia.
 I'm currently working in game development, but also branching out into other realms, such as UI/UX design, machine learning and all types of software development. (I really want to do front-end, so hire me)
 
 You can check out my linkedin [here](https://www.linkedin.com/in/rhiknow/) and my github [here](https://github.com/rhiknow55/)
