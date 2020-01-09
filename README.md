@@ -50,7 +50,7 @@ I am the lead designer for this upcoming project being developed at Raccoopack S
 
 An infant audio visualizer that generates visuals based on wavelengths.
 
-[https://youtu.be/At6vOKVsiZk](Link to a video showing off the current state of the audio visualizer)
+[Link to a video showing off the current state of the audio visualizer](https://youtu.be/At6vOKVsiZk)
 
 
 ### Zalgo text Reddit bot
