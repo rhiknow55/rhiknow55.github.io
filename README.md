@@ -50,7 +50,9 @@ I am the lead designer for this upcoming project being developed at Raccoopack S
 
 A chrome extension which uses the Google Cloud Vision API to censor images related to specified phobia(s).
 
-https://devpost.com/software/phobino
+Made during nwHacks2020.
+
+[https://devpost.com/software/phobino](https://devpost.com/software/phobino)
 
 
 ### Audio Shmuck
@@ -63,6 +65,7 @@ An infant audio visualizer that generates visuals based on wavelengths.
 ### Zalgo text Reddit bot
 
 A reddit bot that will convert text into a zalgo version using Selenium WebDriver.
+
 [https://github.com/rhiknow55/zalgo-text-bot](https://github.com/rhiknow55/zalgo-text-bot)
 
 
