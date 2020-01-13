@@ -46,6 +46,13 @@ I am the lead designer for this upcoming project being developed at Raccoopack S
 
 ## Personal Projects
 
+### Phobino
+
+A chrome extension which uses the Google Cloud Vision API to censor images related to specified phobia(s).
+
+https://devpost.com/software/phobino
+
+
 ### Audio Shmuck
 
 An infant audio visualizer that generates visuals based on wavelengths.
