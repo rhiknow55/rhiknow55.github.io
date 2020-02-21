@@ -46,6 +46,15 @@ I am the lead designer for this upcoming project being developed at Raccoopack S
 
 ## Personal Projects
 
+### live-rap
+
+A BCGamejam 2020 inspired project for the theme "Prevail".
+
+An anagram of "prevail" -> "live rap", so I created a rap lyrics generator using word2vec model and by scraping and cleaning lyrics from websites.
+
+[https://github.com/rhiknow55/live-rap](https://github.com/rhiknow55/live-rap)
+
+
 ### Phobino
 
 A chrome extension which uses the Google Cloud Vision API to censor images related to specified phobia(s).
