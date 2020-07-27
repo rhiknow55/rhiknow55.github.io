@@ -13,7 +13,7 @@ Now without further ado, let's check out the projects!
 These are some of the projects I've worked on during Co-ops, UBC Worklearns, and at startups!
 
 ### It's Always Sunny: Gang Goes Mobile
-[www.eastsidegames.com/game/always-sunny-gang-goes-mobile/](www.eastsidegames.com/game/always-sunny-gang-goes-mobile/)
+[https://www.eastsidegames.com/game/always-sunny-gang-goes-mobile/](https://www.eastsidegames.com/game/always-sunny-gang-goes-mobile/)
 
 ![always sunny thumbnail](https://lh3.googleusercontent.com/VA0RnM1qRTeJD9UjgmvwZ3X7r2J40dUcLntrpsyPqlk4xnMAuB_BnAqJl6TKhb6kNxo=s180-rw)
 
