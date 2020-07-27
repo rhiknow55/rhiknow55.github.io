@@ -19,6 +19,13 @@ These are some of the projects I've worked on during Co-ops, UBC Worklearns, and
 
 During my co-op at East Side Games, we developed a mobile idle game that built with Unity using the Canvas system.
 
+- Practiced well-structured code with enforced Microsoft C# conventions, reviewed code PRs.
+- Created well designed OOP data structures using dependency injection & model-view-controller design pattern.
+- Communicated with Art, UI/UX, Audio departments, and producers on features, following scrum and waterfall workflow.
+- Added player data verification via syncing user actions from the Unity frontend to the PHP backend.
+
+Acquired Skills: C#, Unity3D, SourceTree, Unity Android SDK, Jenkins, Agile/Waterfall Sprint
+
 
 ### UBC Geography VR
 [http://eml.ubc.ca/projects/geography-vr/](http://eml.ubc.ca/projects/geography-vr/)
@@ -26,6 +33,12 @@ During my co-op at East Side Games, we developed a mobile idle game that built w
 [![Geography VR Vimeo](https://eml.ubc.ca/files/2017/07/geog-e1507073736106-360x240.png)](https://vimeo.com/251849416 "Geography VR - Click to Watch!")
 
 I was part of a team at UBC Emerging Media Lab as a software developer that created a VR experience touring Stanley Park which was modeled from photogrammetry.
+
+- Created a virtual reality experience where the user can traverse Stanley Park modeled via photogrammetry.
+- Debugged incompatibility issues with 3rd party software and upgraded project fixing issues and merging issues.
+- Reducing draw calls with texture virtualization (via 3DS Max + Amplify Texture) & increasing fps with LODs.
+
+Acquired Skills: C#, Unity3D, 3DS Max, HTC Vive, Plastic SCM, Trello, Scrum/Agile
 
 
 ### Cook to the Beat
@@ -35,13 +48,27 @@ I was part of a team at UBC Emerging Media Lab as a software developer that crea
 
 I was a software developer for this mobile rhythm game built with Raccoopack Studios, a startup which I've been a part of since 2017.
 
+- Developed a mobile game from prototype to full launch on both Google Play and iOS stores.
+-	Created OOP data structures for game data, managers, and game flows.
+-	Designed features and iterating upon them using feedback from user playtests.
+-	Created Unity editor tools such as a csv data importer that creates objects using C# Reflection.
+
+Acquired Skills: C#, Unity3D, SourceTree, GitKraken, Unity Android SDK
+
+
 
 ### Plushie Defense
 [https://raccoopack.com/plushiedefense](https://raccoopack.com/plushiedefense)
 
 <img src="https://raccoopack.com/static/pdGraphics/shiba.png" alt="drawing" width="200"/>
 
-I am the lead designer for this upcoming project being developed at Raccoopack Studios.
+I am the Producer (and once Lead Designer) for this upcoming project being developed at Raccoopack Studios.
+
+-	Managed a team of 10 programmers, artists, designers and marketing specialists through 5 two-week sprints using Hybrid Agile Scrum methodology.
+-	Iterated on user flows, wireframes and game balance via feedback from playtests and analytics.
+-	Analyzing player data to plot out playthrough rate, player drop off, and time spent via Python using pandas and Jupyter.
+
+Acquired Skills: JIRA, Figma, UX Flows, Python3, pandas, Jupyter
 
 
 ## Personal Projects
@@ -66,16 +93,49 @@ Made during nwHacks2020.
 
 ### Audio Shmuck
 
-An infant audio visualizer that generates visuals based on wavelengths.
+An audio visualizer that generates visuals based on wavelengths. Models were created in Blender to accompany the experience.
 
 [Link to a video showing off the current state of the audio visualizer](https://youtu.be/At6vOKVsiZk)
 
 
 ### Zalgo text Reddit bot
 
-A reddit bot that will convert text into a zalgo version using Selenium WebDriver.
+A reddit bot that will convert text into a zalgo version using Selenium WebDriver to emulate web inputs.
 
 [https://github.com/rhiknow55/zalgo-text-bot](https://github.com/rhiknow55/zalgo-text-bot)
+
+
+## School Projects
+
+### insightUBC (server + web) – Software Specification and Design
+
+-	Created black box tests with full coverage based on specifications in Typescript.
+-	Parsed html to populate database and performed queries following EBNF to return results onto the frontend.
+-	Created server with restify to build RESTful API routes that can be accessed by our frontend.
+
+Acquired Skills: Typescript, Node, restify, RESTful API, IntelliJ WebStorm, EBNF
+
+
+### Date-a-base (Web App) – Relational Databases
+
+-	Created component based frontend using React and Bootstrap for dynamic rendering and handling AJAX requests.
+-	Interacted with local MySQL database using Node to host the server and Express for creating endpoints.
+
+Acquired Skills: React JS, Node JS, Express JS, MySQL, IntelliJ WebStorm, Postman
+
+
+### Buses R Us (Android App) – Software Design
+
+-	Parsed bus route, stop and time data directly from the Translink API using JSON and XML parsers.
+-	Wrote JUnit tests to debug the application.
+
+Acquired Skills: Java, genymotion, OSMDroid, IntelliJ, JSON, XML, Android SDK
+
+
+
+## Extras
+
+Participated in 4 gamejams other than the one(s) mentioned.
 
 
 ## Final Words (for now!)
