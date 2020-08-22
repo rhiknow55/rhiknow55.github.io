@@ -112,7 +112,7 @@ A reddit bot that will convert text into a zalgo version using Selenium WebDrive
 
 ## School Projects
 
-### DoGether: A Social Task Management Web App
+### DoGether: A Social Task Management Web App - CPSC 436I Industry Skills in Academia
 
 https://dogetherapp.herokuapp.com/
 
