@@ -1,7 +1,7 @@
 # Who am I?
 
-My name is Ryan Oh, and I'm currently a 3rd year Bachelor of Computer Science student at the University of British Columbia.
-So far I've worked in VR and mobile game development in the industry. But I'm also branching out into other realms, such as UI/UX design, machine learning and all types of software development via curriculum in school and personal projects.
+My name is Ryan Oh, and I'm currently a 4th year Bachelor of Computer Science student at the University of British Columbia.
+So far I've worked in VR and mobile game development in the industry. But I'm also branching out into other realms, such as UI/UX design, machine learning and all types of software development via personal projects and curriculum in school.
 
 You can check out my linkedin [here](https://www.linkedin.com/in/rhiknow/) and my github [here](https://github.com/rhiknow55/)
 
@@ -11,6 +11,11 @@ Now without further ado, let's check out the projects!
 ## Industry Projects
 
 These are some of the projects I've worked on during Co-ops, UBC Worklearns, and at startups!
+
+### Visier Project
+
+I will be doing a 8-month co-op at Visier.
+
 
 ### It's Always Sunny: Gang Goes Mobile
 [https://www.eastsidegames.com/game/always-sunny-gang-goes-mobile/](https://www.eastsidegames.com/game/always-sunny-gang-goes-mobile/)
@@ -106,6 +111,20 @@ A reddit bot that will convert text into a zalgo version using Selenium WebDrive
 
 
 ## School Projects
+
+### DoGether: A Social Task Management Web App
+
+https://dogetherapp.herokuapp.com/
+
+https://github.com/MS642/MangoDB
+
+- Full MERN stack web app from scratch designed to be mobile responsive.
+- User authentication via Auth0 while connecting them to our own user documents stored in MongoDB Atlas.
+- Deployment via Heroku with research into best practices for a double repo project.
+- Navbar and frontend routes via React-Router to navigate on a single page application and profile url to visit others’ profiles.
+
+Acquired Skills: React JS, Express JS, Bootstrap, Auth0, Heroku, MongoDB
+
 
 ### insightUBC (server + web) – Software Specification and Design
 
