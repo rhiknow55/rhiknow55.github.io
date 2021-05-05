@@ -90,7 +90,7 @@ Acquired Skills: JIRA, Figma, UX Flows, Python3, pandas, Jupyter
 
 A hackathon Android app built with Java and Python which notifies you that you have been ghosted by people you've messaged.
 
-[https://github.com/kylemsguy/nonononotifications](https://github.com/kylemsguy/nonononotifications)
+[https://devpost.com/software/nonononotifications](https://devpost.com/software/nonononotifications)
 
 
 ### Phobino
