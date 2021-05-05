@@ -14,6 +14,8 @@ These are some of the projects I've worked on during Co-ops, UBC Worklearns, and
 
 ### Visier Project
 
+![visier logo](https://www.visier.com/wp-content/uploads/2017/10/vis-blue-square-favicon.png)
+
 I completed an 8 month co-op term on the OEM team at Visier.
 
 During my time at Visier, I did the following:
