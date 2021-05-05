@@ -72,7 +72,7 @@ Acquired Skills: C#, Unity3D, SourceTree, GitKraken, Unity Android SDK
 ### Plushie Defense
 [https://raccoopack.com/plushiedefense](https://raccoopack.com/plushiedefense)
 
-<img src="https://raccoopack.com/static/pdGraphics/shiba.png" alt="drawing" width="200"/>
+![plushie defense thumbnail](https://play-lh.googleusercontent.com/IvekznCu-wL3MbljIQMjAac3UESvOmR9oLKvLE2VSOYbyeYPB0lU08FuFqlR3BH_Y1M=s180)
 
 I was the Producer (and once Lead Designer) for this upcoming project being developed at Raccoopack Studios.
 I also helped program the initial prototype but moved onto a mixed role afterwards, assisting with code when necessary.
