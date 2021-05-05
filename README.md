@@ -14,7 +14,14 @@ These are some of the projects I've worked on during Co-ops, UBC Worklearns, and
 
 ### Visier Project
 
-I will be doing a 8-month co-op at Visier.
+I completed an 8 month co-op term on the OEM team at Visier.
+
+During my time at Visier, I did the following:
+-	Server-side public API development with Scala, support Push API service for customers.
+-	Implementing ETL of analytical data from partners using Scala and embedding the application securely for partners.
+-	Full Stack app development with Angular 9 using Clarity Design and smart and presentational components to support multiple SSO configurations for customers.
+
+Acquired Skills: Scala, SBT, Typescript, AngularJS, RxJS, Jenkins, Software Release Life Cycle
 
 
 ### It's Always Sunny: Gang Goes Mobile
@@ -67,13 +74,35 @@ Acquired Skills: C#, Unity3D, SourceTree, GitKraken, Unity Android SDK
 
 <img src="https://raccoopack.com/static/pdGraphics/shiba.png" alt="drawing" width="200"/>
 
-I am the Producer (and once Lead Designer) for this upcoming project being developed at Raccoopack Studios.
+I was the Producer (and once Lead Designer) for this upcoming project being developed at Raccoopack Studios.
+I also helped program the initial prototype but moved onto a mixed role afterwards, assisting with code when necessary.
 
 -	Managed a team of 10 programmers, artists, designers and marketing specialists through 5 two-week sprints using Hybrid Agile Scrum methodology.
 -	Iterated on user flows, wireframes and game balance via feedback from playtests and analytics.
 -	Analyzing player data to plot out playthrough rate, player drop off, and time spent via Python using pandas and Jupyter.
 
 Acquired Skills: JIRA, Figma, UX Flows, Python3, pandas, Jupyter
+
+
+## Hackathons / Gamejams
+
+### Nonononotifications - TerribleHack VR 2020
+
+A hackathon Android app built with Java and Python which notifies you that you have been ghosted by people you've messaged.
+
+[https://github.com/kylemsguy/nonononotifications](https://github.com/kylemsguy/nonononotifications)
+
+
+### Phobino
+
+A chrome extension which uses the Google Cloud Vision API to censor images related to specified phobia(s).
+
+Made during nwHacks2020.
+
+[https://devpost.com/software/phobino](https://devpost.com/software/phobino)
+
+
+### 3 BC Gamejams + 1 Global Gamejam
 
 
 ## Personal Projects
@@ -85,15 +114,6 @@ A BCGamejam 2020 inspired project for the theme "Prevail".
 An anagram of "prevail" -> "live rap", so I created a rap lyrics generator using word2vec model and by scraping and cleaning lyrics from websites.
 
 [https://github.com/rhiknow55/live-rap](https://github.com/rhiknow55/live-rap)
-
-
-### Phobino
-
-A chrome extension which uses the Google Cloud Vision API to censor images related to specified phobia(s).
-
-Made during nwHacks2020.
-
-[https://devpost.com/software/phobino](https://devpost.com/software/phobino)
 
 
 ### Audio Shmuck
@@ -114,9 +134,9 @@ A reddit bot that will convert text into a zalgo version using Selenium WebDrive
 
 ### DoGether: A Social Task Management Web App - CPSC 436I Industry Skills in Academia
 
-https://dogetherapp.herokuapp.com/
+[https://dogetherapp.herokuapp.com/](https://dogetherapp.herokuapp.com/)
 
-https://github.com/MS642/MangoDB
+[https://github.com/MS642/MangoDB](https://github.com/MS642/MangoDB)
 
 - Full MERN stack web app from scratch designed to be mobile responsive.
 - User authentication via Auth0 while connecting them to our own user documents stored in MongoDB Atlas.
@@ -149,12 +169,6 @@ Acquired Skills: React JS, Node JS, Express JS, MySQL, IntelliJ WebStorm, Postma
 -	Wrote JUnit tests to debug the application.
 
 Acquired Skills: Java, genymotion, OSMDroid, IntelliJ, JSON, XML, Android SDK
-
-
-
-## Extras
-
-Participated in 4 gamejams other than the one(s) mentioned.
 
 
 ## Final Words (for now!)
