@@ -1,7 +1,7 @@
 # Who am I?
 
 My name is Ryan Oh, and I'm currently a 4th year Bachelor of Computer Science student at the University of British Columbia.
-So far I've worked in VR and mobile game development in the industry. But I'm also branching out into other realms, such as UI/UX design, machine learning and all types of software development via personal projects and curriculum in school.
+So far I've worked in a full stack dev, mobile game dev and VR dev in the industry. But I'm also branching out into other realms, such as UI/UX design, machine learning and all types of software development via personal projects and curriculum in school.
 
 You can check out my linkedin [here](https://www.linkedin.com/in/rhiknow/) and my github [here](https://github.com/rhiknow55/)
 
@@ -84,6 +84,14 @@ I also helped program the initial prototype but moved onto a mixed role afterwar
 -	Analyzing player data to plot out playthrough rate, player drop off, and time spent via Python using pandas and Jupyter.
 
 Acquired Skills: JIRA, Figma, UX Flows, Python3, pandas, Jupyter
+
+
+### WIP Game!
+
+I'm currently working as a developer on a new game with Raccoopack Studios.
+
+We are currently in prototyping phase, so more information to come!
+
 
 
 ## Hackathons / Gamejams
@@ -176,6 +184,6 @@ Acquired Skills: Java, genymotion, OSMDroid, IntelliJ, JSON, XML, Android SDK
 ## Final Words (for now!)
 
 I will continue to add projects and neaten up this website for your viewing pleasure.
-Here's a [**link to my resume**](https://drive.google.com/file/d/12c4ZQ3s1XJxFE1RpAgGfzt5KNI2g2HsM/view?usp=sharing) if you wish to take a look - it contains some honorary projects not mentioned here!
+Here's a [**link to my resume**](https://drive.google.com/file/d/14OWYMEvt0Re_iGLx_vUT2189le2ABDGr/view?usp=sharing) if you wish to keep a copy.
 
 Adieu for now!
