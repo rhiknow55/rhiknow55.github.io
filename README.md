@@ -31,7 +31,7 @@ Acquired Skills: Scala, SBT, Typescript, AngularJS, RxJS, Jenkins, Software Rele
 
 ![always sunny thumbnail](https://lh3.googleusercontent.com/VA0RnM1qRTeJD9UjgmvwZ3X7r2J40dUcLntrpsyPqlk4xnMAuB_BnAqJl6TKhb6kNxo=s180-rw)
 
-During my co-op at East Side Games, we developed a mobile idle game that built with Unity using the Canvas system.
+During my co-op at East Side Games, we developed a mobile idle game built with Unity using the Canvas system.
 
 - Practiced well-structured code with enforced Microsoft C# conventions, reviewed code PRs.
 - Created well designed OOP data structures using dependency injection & model-view-controller design pattern.
@@ -49,7 +49,7 @@ Acquired Skills: C#, Unity3D, SourceTree, Unity Android SDK, Jenkins, Agile/Wate
 I was part of a team at UBC Emerging Media Lab as a software developer that created a VR experience touring Stanley Park which was modeled from photogrammetry.
 
 - Created a virtual reality experience where the user can traverse Stanley Park modeled via photogrammetry.
-- Debugged incompatibility issues with 3rd party software and upgraded project fixing issues and merging issues.
+- Debugged incompatibility issues with 3rd party software and upgraded project version whilst fixing version and merging issues.
 - Reducing draw calls with texture virtualization (via 3DS Max + Amplify Texture) & increasing fps with LODs.
 
 Acquired Skills: C#, Unity3D, 3DS Max, HTC Vive, Plastic SCM, Trello, Scrum/Agile
