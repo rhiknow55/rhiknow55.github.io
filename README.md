@@ -12,6 +12,29 @@ Now without further ado, let's check out the projects!
 
 These are some of the projects I've worked on during Co-ops, UBC Worklearns, and at startups!
 
+### Unity GUM
+I was part of the Mobile Creators team, helping develop Gum, an AR world building app.
+
+During my time at Unity, I did the following:
+-	Creating test suites on TestRails. Performing smoke tests and observing error logs on Sentry to create JIRA tickets.
+-	Writing automated UI tests with Unity’s Automated QA package.
+
+Acquired Skills: TestRails, Unity Automated QA package, Sentry, Unity Cloud Build, CI/CD with Yamato
+
+### Later. Social Media Scheduler
+![later logo](https://later.com/images/brand/LaterLogo_Bright.svg)
+https://later.com/
+
+I was part of the Backend team for 4 months as a Software Developer co-op.
+
+During my time at Later, I did the following:
+- Interacting with various third-party APIs (AWS, GCP, Github, Reddit, and Heroku) to create internal tooling (e.g. AWS DB maintenance calendar, Github automatic PR tool), while using OmniAuth for authentication.
+-	Created custom Rubocops to enforce internal Ruby on Rails coding conventions.
+-	Using PostgreSQL to analyze user data and implement better error handling with Ruby’s ActiveRecord.
+- Created admin tools via ActiveAdmin.
+
+Acquired Skills: Ruby on Rails, PostgreSQL, EmberJS, RuboCops, AWS, Google Cloud Platform, Github API, Reddit API, Heroku API, OmniAuth
+
 ### Visier Project
 
 ![visier logo](https://www.visier.com/wp-content/uploads/2017/10/vis-blue-square-favicon.png)
@@ -184,6 +207,6 @@ Acquired Skills: Java, genymotion, OSMDroid, IntelliJ, JSON, XML, Android SDK
 ## Final Words (for now!)
 
 I will continue to add projects and neaten up this website for your viewing pleasure.
-Here's a [**link to my resume**](https://drive.google.com/file/d/14OWYMEvt0Re_iGLx_vUT2189le2ABDGr/view?usp=sharing) if you wish to keep a copy.
+Here's a [**link to my resume**](https://drive.google.com/file/d/1dU9Yk_hTwiQfgxsKFBOkYax8a6EYGOoD/view?usp=sharing) if you wish to keep a copy.
 
 Adieu for now!
