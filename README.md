@@ -13,6 +13,10 @@ Now without further ado, let's check out the projects!
 These are some of the projects I've worked on during Co-ops, UBC Worklearns, and at startups!
 
 ### Unity GUM
+![unity logo](https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png)
+
+https://create.unity.com/gum
+
 I was part of the Mobile Creators team, helping develop Gum, an AR world building app.
 
 During my time at Unity, I did the following:
@@ -23,6 +27,7 @@ Acquired Skills: TestRails, Unity Automated QA package, Sentry, Unity Cloud Buil
 
 ### Later. Social Media Scheduler
 ![later logo](https://later.com/images/brand/LaterLogo_Bright.svg)
+
 https://later.com/
 
 I was part of the Backend team for 4 months as a Software Developer co-op.
